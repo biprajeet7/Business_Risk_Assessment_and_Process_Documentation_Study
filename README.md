@@ -54,4 +54,3 @@ Comprehensive risk management plan aligned with ISO 27001 information security m
 - [XYZ Risk Management Plan.md](XYZ%20Risk%20Management%20Plan.md) - Plan in Markdown format for easy viewing and editing
 - [XYZ Risk Management Plan.xlsx](XYZ%20Risk%20Management%20Plan.xlsx) - Risk analysis spreadsheet with quantitative assessments
 - [XYZ Risk Management Plan - Sheet 1.csv](XYZ%20Risk%20Management%20Plan%20-%20Sheet%201.csv) - Risk assessment data in CSV format
-- [iso27001-risk-management.md](iso27001-risk-management.md) - Extended project documentation and framework details
